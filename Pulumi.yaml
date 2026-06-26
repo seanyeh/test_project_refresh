@@ -1,0 +1,4 @@
+name: refresh-probe
+runtime: nodejs
+description: >-
+  Minimal program
